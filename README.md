@@ -25,8 +25,10 @@ mandarin.mp4
 spanish.mp4
 
 # Executable builds:
-build/
+build/transcriber
+
 dist/
+
 transcriber.spec
 
 # Algorithm evaluation:
